@@ -1,0 +1,74 @@
+Characteristics[Organism];
+Arabidopsis thaliana
+Brassica rapa
+Ceratopteris richardii
+plant
+thale cress
+turnip
+cabbage
+bomdong
+cime di rappa
+fern
+Parameter[Sample Storage Method];
+mini cold bag
+freezer
+°C
+stored
+frozen
+Comments[Genetic modification];
+genetic modification
+genetically modified
+Characteristics[Age (at launch)];
+days
+old
+age
+Parameter[Sample Preservation Method];
+mini cold bag
+freezer
+°C
+stored
+frozen
+Characteristics[ecotype];
+ecotype
+ecospecies
+Parameter[Growth time];
+growth time
+days
+Characteristics[cultivar];
+cultivar
+ICNCP
+Parameter[Growth temperature];
+°C
+°F
+°K
+temperature
+celsius
+fahrenheit
+kelvin
+Characteristics[Development stage];
+development stage
+vegetative
+juvenile
+mature
+reproductive
+ripening
+senescence
+Parameter[Habitat];
+habitat
+Characteristics[Organism Part];
+organism part
+Parameter[Exposure duration];
+exposure
+exposed
+days
+Parameter[Age (after exposure/at harvest)];
+days
+old
+age
+Parameter[Light (time)];
+light
+Parameter[Light (source)];
+light
+Parameter[Activation time];
+Activation
+days

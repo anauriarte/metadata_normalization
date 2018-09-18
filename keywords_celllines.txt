@@ -1,0 +1,46 @@
+Characteristics[Organism];
+organism
+Parameter[Sample Storage Method];
+mini cold bag
+freezer
+°C
+°F
+°K
+stored
+frozen
+fixation
+liquid nitrogen
+Comments[Text descriptions];
+Characteristics[Strain id (parent)];
+Parameter[Sample Preservation Method];
+mini cold bag
+freezer
+°C
+°F
+°K
+stored
+frozen
+fixation
+liquid nitrogen
+Comments[Genetic modification];
+genetic modification
+genetically modified
+Characteristics[Genotype];
+Parameter[Growth time];
+days
+Parameter[Sample Media Information];
+media
+Characteristics[Passage number];
+Parameter[Growth temperature];
+°C
+°F
+°K
+temperature
+celcius
+kelvin
+farenheit
+Characteristics[Cell type];
+Parameter[Exposure duration];
+exposure
+days
+Characteristics[Cell Source (Tissue)];

@@ -1,0 +1,60 @@
+Characteristics[organism];
+Mice
+Mus musculus
+Rattus norvegicus
+Characteristics[age];
+days
+old
+Characteristics[sex];
+female
+male
+Characteristics[diet];
+feed
+feeding
+fed
+Characteristics[strain];
+Characteristics[tissue];
+liver
+spleen
+Parameter Value[Sample Storage Method];
+mini cold bag
+freezer
+°C
+stored
+frozen
+Parameter Value[Sample Preservation Method];
+mini cold bag
+freezer
+°C
+homogenized
+snap frozen
+liquid nitrogen
+Parameter Value[Euthanasia time];
+days
+euthanized
+euthanasia
+Parameter Value[Euthanasia Chemical];
+euthanized
+Euthanasia
+isofluorane
+barbiturate
+thoracotomy
+decapitation
+cervical disslocation
+Parameter Value[Habitat];
+vivarium
+cage
+chamber
+flight hardware
+Parameter Value[Exposure Duration];
+days
+Parameter Value[Light Cycle];
+day
+night
+Parameter Value[Room Temperature];
+°C
+°F
+°K
+Comments[Feeding Schedule];
+Comments[Genetic Modification];
+Comments[Mortality];

@@ -1,0 +1,66 @@
+Characteristics[Organism];
+organism
+Aspergillus fumigatus
+Bacillus
+Bacillus subtilis
+Candida albicans
+Escherichia coli
+vibrio
+Klebsiella
+Staphylococcus
+Pantoea conspicus
+Enterobacter
+Microbiota
+Mycobacterium marinum
+Pseudomonas aeruginosa
+hodospirilium rubrum
+Saccharomyces cerevisiae
+Salmonella enterica
+Staphylococcus aureus
+Streptococcus mutans
+Trichoderma virens
+Aspergillus terreus
+Aurebasidium pullulans
+Parameter[Sample Storage Method];
+mini cold bag
+freezer
+°C
+stored
+frozen
+Comments[Text descriptions];
+Characteristics[Strain id (parent)];
+strain id
+Parameter[Sample Preservation Method];
+mini cold bag
+freezer
+°C
+stored
+frozen
+Comments[Genetic modification];
+genetic modification
+genetically modified
+Characteristics[Genotype];
+genotype
+Parameter[Growth time];
+growth
+days
+Characteristics[Generation];
+generation
+Parameter[Sample Media Information];
+sample media
+Characteristics[Passage number];
+passage number
+Parameter[Growth temperature];
+°C
+°F
+°K
+temperature
+celsius
+fahrenheit
+kelvin
+Parameter[Exposure duration];
+exposure
+exposed
+days
+Parameter[mircobes-Activation time];
+activation time

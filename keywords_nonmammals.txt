@@ -1,0 +1,74 @@
+Characteristics[Organism];
+Caenorhabditis elegans
+Danio rerio
+Daphnia magna
+Drosophila melanogaster
+Euprymna scolopes
+Oryzias latipes
+fruit fly
+c. elegans
+plankton
+planktonic crustacean
+fly
+squid
+fish
+Parameter[Sample Storage Method];
+mini cold bag
+freezer
+°C
+°F
+°K
+stored
+frozen
+fixation
+liquid nitrogen
+Comments[Clinical history];
+clinical history
+Characteristics[Age (at launch)];
+days
+old
+age
+Parameter[Sample Preservation Method];
+mini cold bag
+freezer
+°C
+°F
+°K
+stored
+frozen
+fixation
+liquid nitrogen
+Comments[Genetic modification];
+genetic modification
+genetically modified
+Characteristics[Sex];
+female
+male
+Parameter[Habitat];
+habitat
+Comments[mortality];
+mortality
+died
+survival
+survived
+Characteristics[Diet];
+feeding
+feed
+fed
+diet
+Parameter[Exposure duration];
+exposure
+days
+Characteristics[Cell type];
+cell type
+cells
+Parameter[Age (at sacrifice)];
+days
+old
+age
+Characteristics[Tissue];
+tissue
+Parameter[Growth condition];
+growth condition
+Characteristics[Developmental stage];
+developmental stage
